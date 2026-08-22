@@ -1,0 +1,6 @@
+{
+  "name": "vm-full-access",
+  "displayName": "VM Full Access",
+  "description": "Wirtualna maszyna z pełnym dostępem — terminal, hardware config, sieć, snapshoty, logi.",
+  "instantAppType": "tsx"
+}
